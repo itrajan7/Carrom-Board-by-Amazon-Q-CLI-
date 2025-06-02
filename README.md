@@ -8,6 +8,19 @@ This project implements a fully functional Carrom Board game using Pygame. The g
 
 Carrom is a traditional strike-and-pocket board game popular in many parts of Asia. Players use a striker disc to hit and pocket carrom men (coins) into the four corner pockets of a square wooden board. The game combines elements of billiards, shuffleboard, and table hockey.
 
+
+## Development with Amazon Q CLI
+
+This project demonstrates the capabilities of Amazon Q CLI as an AI assistant for software development. Amazon Q CLI provided:
+
+- **Code Generation**: Complete implementation of game mechanics, physics, and UI components
+- **Problem Solving**: Solutions for complex physics calculations and collision detection
+- **Design Assistance**: Guidance on creating an authentic carrom board design
+- **Debugging Support**: Identification and resolution of code issues
+- **Feature Implementation**: Step-by-step addition of features like themes, save/load functionality, and particle effects
+
+The development process showcased how AI assistance can accelerate game development while maintaining high-quality code standards. Amazon Q CLI helped with both the technical implementation and creative aspects of the project, resulting in a polished final product.
+
 ## Features Implemented
 
 ### Game Mechanics
@@ -80,6 +93,8 @@ Carrom is a traditional strike-and-pocket board game popular in many parts of As
    ```
    python3 carrom_game_fixed.py
    ```
+<img width="776" alt="Img 2" src="https://github.com/user-attachments/assets/948dfcfc-cf45-435c-a86c-e531716cbf97" />
+<img width="546" alt="Img 1" src="https://github.com/user-attachments/assets/7770910d-41a0-4922-80b6-d229f2fcb347" />
 
 ## Game Controls
 
@@ -118,3 +133,19 @@ Carrom is a traditional strike-and-pocket board game popular in many parts of As
 This implementation of the Carrom Board game successfully captures the essence of the traditional game while adding modern features like customizable themes, save/load functionality, and visual effects. The physics system provides realistic gameplay, and the user interface is intuitive and responsive.
 
 The modular code structure allows for easy maintenance and future enhancements, making this a solid foundation for further development.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Built with Pygame
+- Inspired by classic Tic-Tac-Toe gameplay
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
