@@ -1,4 +1,4 @@
-# Carrom Board Game - Final Report
+# Carrom Board Game
 
 ## Project Overview
 
